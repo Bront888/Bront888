@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-hero.svg" alt="BRONTIS — Software • AI • Health-Tech" width="100%" />
+<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-hero-v2.svg" alt="BRONTIS — Software • AI • Health-Tech" width="100%" />
 
 <br />
 
