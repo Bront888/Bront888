@@ -110,3 +110,11 @@ I'm interested in:
 <sub>© 2026 Brontis</sub>
 
 </div>
+
+<br />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-footer-orbit.svg" alt="Animated BRONTIS technology orbit" width="100%" />
+
+</div>
