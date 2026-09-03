@@ -1,102 +1,112 @@
 <div align="center">
 
-# BRONTIS
+<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-hero.svg" alt="BRONTIS — Software • AI • Health-Tech" width="100%" />
 
-### Building technology for a more connected future.
+<br />
 
-**Software Engineer • AI Builder • Health-Tech Founder**
-
-I build practical software systems, explore AI engineering, and work toward making healthcare more accessible across Africa.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Bront888-181717?style=flat&logo=github)](https://github.com/Bront888)
+[![GitHub](https://img.shields.io/badge/GitHub-Bront888-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bront888)
+[![Python](https://img.shields.io/badge/Python-38bdf8?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-06b6d4?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-2563eb?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 </div>
 
 ---
 
-## About Me
+## ⚡ About Me
 
-I'm a developer focused on turning ideas into working products.
+I'm **Brontis** — a developer building at the intersection of **software engineering, AI, and healthcare**.
 
-- 🔭 Building **OSBRONT**, a health-tech venture focused on connecting people with safe, accessible healthcare.
-- 🛡️ Building **Project Aegis**, the technology platform behind the vision.
-- 🐍 Working with **Python, FastAPI, APIs, databases, and backend architecture**.
-- 📱 Building cross-platform applications with **Flutter**.
-- 🤖 Exploring **AI engineering, RAG, vector databases, and intelligent systems**.
-- 🚀 Learning by building real systems from the ground up.
+I like taking an idea from a blank repository to a real system: architecture, APIs, databases, authentication, mobile interfaces, testing, and everything in between.
 
----
-
-## Current Stack
-
-**Languages**
-
-`Python` `Dart` `Go` `SQL`
-
-**Backend & APIs**
-
-`FastAPI` `SQLAlchemy` `Pydantic` `REST APIs`
-
-**Mobile**
-
-`Flutter`
-
-**Databases & Infrastructure**
-
-`PostgreSQL` `SQLite` `Alembic` `Docker` `Git` `GitHub`
-
-**AI / Data**
-
-`LLM APIs` `RAG` `Vector Databases` `AI Engineering`
+- 🔭 Building **OSBRONT** and its technology platform, **Project Aegis**
+- 🧠 Growing deeper into **AI engineering and intelligent systems**
+- 🐍 Building backend systems with **Python + FastAPI**
+- 📱 Building mobile experiences with **Flutter**
+- 🏗️ Learning through real-world system design and product development
+- 🌍 Focused on technology that can solve meaningful problems across Africa
 
 ---
 
-## Featured Build
+## 🛡️ Currently Building — OSBRONT
 
-### 🛡️ Project Aegis — OSBRONT
+<div align="center">
 
-A health-tech platform being built to make safe, authentic medicines and healthcare services more accessible across Africa.
+### Healthcare. Connected.
 
-The system is being developed around:
+**Every Life Within Reach.**
 
-- 👤 Patients
-- 💊 Pharmacies & pharmacists
-- 🚚 Couriers
-- 💳 Payments
-- 📦 Order lifecycle & tracking
-- 🔐 Authentication, authorization & verification
-- 🤖 AI-assisted healthcare workflows
+</div>
 
-> **OSBRONT — Every Life Within Reach.**
-
----
-
-## Engineering Philosophy
-
-> **Build. Understand. Improve. Repeat.**
-
-I care about understanding the systems I build—not just making them work. My goal is to develop software that is secure, maintainable, scalable, and useful in the real world.
-
----
-
-## What I'm Learning
+**Project Aegis** is the engineering platform behind OSBRONT — a health-tech system designed around accessible, safe healthcare and medicine delivery.
 
 ```text
-Python & Backend Engineering   ███████████████████░  Building
-AI Engineering                 ████████████████░░░░  Exploring
-System Architecture            ███████████████░░░░░  Developing
-Flutter                        █████████████░░░░░░░  Building
-Go                             ██████████░░░░░░░░░░  Learning
+Patient → Platform → Pharmacy → Pharmacist → Courier → Patient
+                    ↓
+                  AI + Data
+                    ↓
+             Safer healthcare
+```
+
+The platform is being developed around **authentication, role-based access, pharmacy/pharmacist workflows, medicine orders, order state management, payments, verification, delivery, and AI-assisted workflows.**
+
+---
+
+## 🧰 Tech I Work With
+
+<div align="center">
+
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | 🐍 Python · 🎯 Dart · 🔵 Go · 🗄️ SQL |
+| **Backend** | ⚡ FastAPI · SQLAlchemy · Pydantic · REST APIs |
+| **Mobile** | 📱 Flutter |
+| **Database** | PostgreSQL · SQLite · Alembic |
+| **DevOps / Tools** | Docker · Git · GitHub · Linux |
+| **AI** | LLM APIs · RAG · Vector Databases · AI Engineering |
+
+</div>
+
+---
+
+## 🚀 What I'm Exploring
+
+```text
+Backend Engineering       ████████████████████  Building
+AI Engineering             █████████████████░░░  Exploring
+System Architecture        ████████████████░░░░  Developing
+Flutter                    ███████████████░░░░░  Building
+Go                         ███████████░░░░░░░░░  Learning
 ```
 
 ---
 
-## Let's Connect
+## 🧠 Engineering Philosophy
 
-I'm interested in **software engineering, AI, health-tech, startups, and ambitious ideas that solve real problems.**
+> **Build. Understand. Improve. Repeat.**
+
+I don't want to only write code that works. I want to understand **why it works, how it fails, how it scales, and how it can be made better.**
+
+---
+
+## 🌌 Beyond the Code
+
+I'm interested in:
+
+`AI` · `Health-Tech` · `Startups` · `Backend Systems` · `System Design` · `Product Engineering` · `Africa's Digital Future`
+
+---
 
 <div align="center">
 
-### Every Life Within Reach.
+### ✦ BUILDING THE FUTURE, ONE SYSTEM AT A TIME ✦
+
+**BRONTIS**
+
+<sub>Software Engineer • AI Builder • Health-Tech Founder</sub>
+
+<br /><br />
+
+<sub>© 2026 Brontis</sub>
 
 </div>
