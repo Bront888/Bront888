@@ -40,13 +40,6 @@ I like taking an idea from a blank repository to a real system: architecture, AP
 
 **Project Aegis** is the engineering platform behind OSBRONT — a health-tech system designed around accessible, safe healthcare and medicine delivery.
 
-```text
-Patient → Platform → Pharmacy → Pharmacist → Courier → Patient
-                    ↓
-                  AI + Data
-                    ↓
-             Safer healthcare
-```
 
 The platform is being developed around **authentication, role-based access, pharmacy/pharmacist workflows, medicine orders, order state management, payments, verification, delivery, and AI-assisted workflows.**
 
