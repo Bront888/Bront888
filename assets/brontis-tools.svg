@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-labelledby="title desc">
+<title id="title">BRONTIS Creative and Engineering Toolkit</title>
+<desc id="desc">Brontis toolkit spanning Figma, Adobe tools, Flutter, Python, FastAPI and GitHub.</desc>
+<rect width="1200" height="170" rx="24" fill="#050A18"/>
+<text x="48" y="42" fill="#FFFFFF" font-family="Manrope,Inter,Arial,sans-serif" font-size="21" font-weight="800">CREATIVE × ENGINEERING</text>
+<text x="48" y="67" fill="#8197BA" font-family="Manrope,Inter,Arial,sans-serif" font-size="12">Design is the front door. Engineering makes the idea real.</text>
+<g font-family="Manrope,Inter,Arial,sans-serif" font-size="13" font-weight="700">
+ <g transform="translate(48 92)"><rect width="130" height="48" rx="12" fill="#111B34" stroke="#28436F"/><circle cx="24" cy="24" r="11" fill="#F24E1E"/><text x="44" y="29" fill="#FFFFFF">Figma</text></g>
+ <g transform="translate(192 92)"><rect width="150" height="48" rx="12" fill="#111B34" stroke="#28436F"/><circle cx="24" cy="24" r="11" fill="#FF9A00"/><text x="44" y="29" fill="#FFFFFF">Illustrator</text></g>
+ <g transform="translate(356 92)"><rect width="140" height="48" rx="12" fill="#111B34" stroke="#28436F"/><circle cx="24" cy="24" r="11" fill="#31A8FF"/><text x="44" y="29" fill="#FFFFFF">Photoshop</text></g>
+ <g transform="translate(510 92)"><rect width="125" height="48" rx="12" fill="#111B34" stroke="#28436F"/><circle cx="24" cy="24" r="11" fill="#54C5F8"/><text x="44" y="29" fill="#FFFFFF">Flutter</text></g>
+ <g transform="translate(649 92)"><rect width="120" height="48" rx="12" fill="#111B34" stroke="#28436F"/><circle cx="24" cy="24" r="11" fill="#3776AB"/><text x="44" y="29" fill="#FFFFFF">Python</text></g>
+ <g transform="translate(783 92)"><rect width="130" height="48" rx="12" fill="#111B34" stroke="#28436F"/><circle cx="24" cy="24" r="11" fill="#06B6D4"/><text x="44" y="29" fill="#FFFFFF">FastAPI</text></g>
+ <g transform="translate(927 92)"><rect width="120" height="48" rx="12" fill="#111B34" stroke="#28436F"/><circle cx="24" cy="24" r="11" fill="#FFFFFF"/><text x="44" y="29" fill="#FFFFFF">GitHub</text></g>
+</g>
+</svg>
