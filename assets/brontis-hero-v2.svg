@@ -1,41 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="title desc">
-<title id="title">BRONTIS — Build, Learn, Create, Impact</title>
-<desc id="desc">Clean BRONTIS personal brand banner featuring the geometric B monogram, BRONTIS wordmark, and the values Build, Learn, Create, Impact.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="title desc">
+<title id="title">BRONTIS — Graphic Designer, Creative Developer, Builder</title>
+<desc id="desc">BRONTIS personal brand hero featuring the official geometric B logo and a visual design system of grids, color swatches, interface cards and creative tools.</desc>
 <defs>
-  <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#0B63F6"/>
-    <stop offset="1" stop-color="#22C7F2"/>
-  </linearGradient>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#071A3D"/>
-    <stop offset="1" stop-color="#020B1E"/>
-  </linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050A18"/><stop offset=".55" stop-color="#071A3D"/><stop offset="1" stop-color="#030612"/></linearGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1248FF"/><stop offset=".55" stop-color="#087FF5"/><stop offset="1" stop-color="#22C7F2"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#22C7F2"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#7EA3D6" stroke-opacity=".09"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="10"/></filter>
 </defs>
 
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="26" fill="url(#bg)"/>
+<rect x="720" y="0" width="480" height="380" fill="url(#grid)"/>
+<circle cx="1030" cy="150" r="180" fill="#1248FF" opacity=".10" filter="url(#glow)"/>
+<circle cx="930" cy="300" r="110" fill="#7C3AED" opacity=".08" filter="url(#glow)"/>
 
-<!-- restrained ambient glow -->
-<circle cx="1020" cy="80" r="150" fill="#0B63F6" opacity=".08"/>
-<circle cx="1120" cy="300" r="120" fill="#22C7F2" opacity=".06"/>
-
-<!-- BRONTIS monogram -->
-<g transform="translate(94 82)">
-  <path d="M0 0H105C139 0 161 22 161 54C161 79 148 96 126 104C148 112 163 130 163 157C163 190 140 212 105 212H0V151L52 99L0 47V0Z" fill="url(#mark)"/>
-  <path d="M52 47H110C124 47 133 54 133 66C133 78 124 85 110 85H67L52 70V47Z" fill="#071A3D"/>
-  <path d="M67 105H111C126 105 136 113 136 126C136 139 126 147 111 147H91L67 123V105Z" fill="#071A3D"/>
-  <path d="M0 69L52 121V176L0 212V69Z" fill="#0B63F6"/>
+<!-- exact BRONTIS monogram -->
+<g transform="translate(770 52) scale(.39)">
+  <path d="M 12,163 13,672 173,518 173,329 Z M 5,2 141,148 427,148 459,175 456,208 429,229 212,230 384,413 463,425 495,461 494,497 471,526 371,533 187,343 187,531 328,680 505,673 610,621 658,552 671,467 635,372 546,311 607,261 638,194 635,120 604,62 544,19 480,3 Z" fill="url(#brand)" fill-rule="evenodd"/>
 </g>
 
-<!-- wordmark -->
-<text x="300" y="154" fill="#FFFFFF" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="7">BRONTIS</text>
-<text x="304" y="198" fill="#B8C7E3" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="4">BUILD  |  LEARN  |  CREATE  |  IMPACT</text>
+<!-- wordmark and positioning -->
+<text x="78" y="112" fill="#FFFFFF" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="72" font-weight="800" letter-spacing="7">BRONTIS</text>
+<text x="82" y="153" fill="#22C7F2" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">GRAPHIC DESIGN • CREATIVE DEVELOPMENT</text>
+<text x="82" y="199" fill="#E7EEF9" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">I design ideas. I build experiences.</text>
+<text x="82" y="230" fill="#91A5C7" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="16">Brand identity • UI/UX • Visual systems • Motion • Software</text>
 
-<path d="M304 232H830" stroke="#1C315C" stroke-width="2"/>
-<path d="M304 232H585" stroke="url(#mark)" stroke-width="3"/>
+<!-- design tool chips -->
+<g font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-weight="700" font-size="12">
+  <rect x="82" y="263" width="86" height="30" rx="15" fill="#111E3B" stroke="#28436F"/><text x="105" y="283" fill="#FFFFFF">FIGMA</text>
+  <rect x="178" y="263" width="104" height="30" rx="15" fill="#111E3B" stroke="#28436F"/><text x="197" y="283" fill="#FFFFFF">ILLUSTRATOR</text>
+  <rect x="292" y="263" width="92" height="30" rx="15" fill="#111E3B" stroke="#28436F"/><text x="312" y="283" fill="#FFFFFF">PHOTOSHOP</text>
+  <rect x="394" y="263" width="98" height="30" rx="15" fill="#111E3B" stroke="#28436F"/><text x="414" y="283" fill="#FFFFFF">AFTER FX</text>
+</g>
 
-<text x="304" y="272" fill="#8EA2C4" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="17">Software • AI • Product Engineering • Health-Tech</text>
-<text x="304" y="306" fill="#FFFFFF" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">A BETTER ME. A GREATER TOMORROW.</text>
+<!-- creative canvas -->
+<g transform="translate(820 72)">
+  <rect width="310" height="190" rx="18" fill="#08132B" stroke="#28436F"/>
+  <rect x="18" y="18" width="274" height="112" rx="12" fill="#0D1D3B"/>
+  <path d="M42 102L98 48L145 83L201 34L267 102" fill="none" stroke="#22C7F2" stroke-width="3"/>
+  <circle cx="98" cy="48" r="7" fill="#22C7F2"/><circle cx="145" cy="83" r="7" fill="#7C3AED"/><circle cx="201" cy="34" r="7" fill="#FFFFFF"/>
+  <rect x="18" y="144" width="62" height="26" rx="13" fill="#1248FF"/><rect x="88" y="144" width="62" height="26" rx="13" fill="#7C3AED"/><rect x="158" y="144" width="62" height="26" rx="13" fill="#22C7F2"/>
+  <text x="232" y="162" fill="#9DB0D0" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="11">VISUAL SYSTEM</text>
+</g>
 
-<!-- subtle signature accent -->
-<path d="M985 306C1040 290 1086 290 1135 306" fill="none" stroke="#22C7F2" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+<!-- signature values -->
+<text x="824" y="304" fill="#FFFFFF" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">BUILD  |  LEARN  |  CREATE  |  IMPACT</text>
+<path d="M824 326C900 304 1000 304 1106 327" fill="none" stroke="url(#violet)" stroke-width="3" stroke-linecap="round"/>
+<text x="824" y="352" fill="#7F94B8" font-family="Manrope,Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1">A BETTER ME. A GREATER TOMORROW.</text>
 </svg>
