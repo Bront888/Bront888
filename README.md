@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-hero-v2.svg" alt="BRONTIS — Graphic Designer and Creative Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-hero-v2.svg" alt="BRONTIS — Graphic Artist and Creative Developer" width="100%" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 I'm **Brontis** — a graphic artist and software builder working across **visual identity, graphic design, UI/UX, motion, AI and product engineering**.
 
-I enjoy taking an idea from a rough concept to a polished visual system — then building the technology behind it when the idea needs to become a real product.
+My creative workflow starts with **Canva** — where I turn ideas into visual identities, campaigns, presentations and digital content — and extends into code when an idea needs to become a real product.
 
 <div align="center">
 
@@ -20,16 +20,16 @@ I enjoy taking an idea from a rough concept to a polished visual system — then
 
 ### What I Create
 
-- **Brand Identity** — logos, visual systems, brand direction and guidelines
+- **Brand Identity** — logos, visual direction, brand systems and guidelines
 - **Graphic Design** — social campaigns, promotional graphics, presentations and digital artwork
-- **UI/UX Design** — interfaces, prototypes, design systems and mobile experiences
-- **Motion & Visual Content** — animation, video concepts and motion graphics
-- **Creative Development** — turning designs into functional web and mobile products
-- **AI-Enhanced Creative Workflows** — exploring how intelligent tools can accelerate design and product development
+- **UI/UX Design** — interfaces, layouts, prototypes and mobile experiences
+- **Motion & Visual Content** — animated graphics, video concepts and visual storytelling
+- **Creative Development** — turning visual concepts into functional web and mobile products
+- **AI-Enhanced Creative Workflows** — exploring intelligent tools for faster design and product development
 
 ---
 
-## 🧰 Creative × Engineering Toolkit
+## 🧰 My Creative × Engineering Toolkit
 
 <div align="center">
 
@@ -37,12 +37,12 @@ I enjoy taking an idea from a rough concept to a polished visual system — then
 
 </div>
 
-| Domain | Technologies |
+| Domain | Tools / Technologies |
 |:---|:---|
-| **Design** | Figma · Illustrator · Photoshop · Premiere Pro · After Effects |
+| **Design** | Canva |
 | **Frontend / Mobile** | Flutter · UI/UX · Responsive Interfaces |
 | **Backend** | Python · FastAPI · SQLAlchemy · REST APIs |
-| **AI** | LLM APIs · RAG · Vector Databases · AI Engineering |
+| **AI** | LLM APIs · RAG · AI Engineering |
 | **DevOps** | Git · GitHub · Docker · Linux |
 
 ---
