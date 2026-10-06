@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-labelledby="title desc">
+<title id="title">BRONTIS Creative System</title>
+<desc id="desc">A visual showcase of Brontis creative disciplines: brand identity, graphic design, UI/UX, motion and creative development.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071A3D"/><stop offset="1" stop-color="#050817"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#1248FF"/><stop offset=".55" stop-color="#7C3AED"/><stop offset="1" stop-color="#22C7F2"/></linearGradient>
+</defs>
+<rect width="1200" height="250" rx="24" fill="url(#bg)"/>
+<text x="48" y="52" fill="#FFFFFF" font-family="Manrope,Inter,Arial,sans-serif" font-size="23" font-weight="800">THE BRONTIS CREATIVE SYSTEM</text>
+<text x="48" y="79" fill="#8FA5C8" font-family="Manrope,Inter,Arial,sans-serif" font-size="14">Turning concepts into visual identities, interfaces and digital experiences.</text>
+
+<g font-family="Manrope,Inter,Arial,sans-serif">
+ <rect x="48" y="108" width="210" height="94" rx="16" fill="#0A1732" stroke="#29456F"/>
+ <text x="70" y="139" fill="#22C7F2" font-size="25" font-weight="800">01</text><text x="70" y="164" fill="#FFFFFF" font-size="15" font-weight="700">BRAND IDENTITY</text><text x="70" y="184" fill="#7F94B8" font-size="11">Logos • Systems • Guidelines</text>
+ <rect x="278" y="108" width="210" height="94" rx="16" fill="#0A1732" stroke="#29456F"/>
+ <text x="300" y="139" fill="#7C3AED" font-size="25" font-weight="800">02</text><text x="300" y="164" fill="#FFFFFF" font-size="15" font-weight="700">GRAPHIC DESIGN</text><text x="300" y="184" fill="#7F94B8" font-size="11">Campaigns • Social • Print</text>
+ <rect x="508" y="108" width="210" height="94" rx="16" fill="#0A1732" stroke="#29456F"/>
+ <text x="530" y="139" fill="#1248FF" font-size="25" font-weight="800">03</text><text x="530" y="164" fill="#FFFFFF" font-size="15" font-weight="700">UI / UX</text><text x="530" y="184" fill="#7F94B8" font-size="11">Interfaces • Prototypes • Apps</text>
+ <rect x="738" y="108" width="190" height="94" rx="16" fill="#0A1732" stroke="#29456F"/>
+ <text x="760" y="139" fill="#22C7F2" font-size="25" font-weight="800">04</text><text x="760" y="164" fill="#FFFFFF" font-size="15" font-weight="700">MOTION</text><text x="760" y="184" fill="#7F94B8" font-size="11">Animation • Video • Motion</text>
+ <rect x="948" y="108" width="204" height="94" rx="16" fill="#0A1732" stroke="#29456F"/>
+ <text x="970" y="139" fill="#FFFFFF" font-size="25" font-weight="800">05</text><text x="970" y="164" fill="#FFFFFF" font-size="15" font-weight="700">CREATIVE DEV</text><text x="970" y="184" fill="#7F94B8" font-size="11">Code • Interaction • Product</text>
+</g>
+<path d="M48 222H1152" stroke="url(#accent)" stroke-width="2" opacity=".8"/>
+</svg>
