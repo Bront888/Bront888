@@ -1,34 +1,53 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-hero-v2.svg" alt="BRONTIS — Software • AI • Health-Tech" width="100%" />
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Bront888-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bront888)
-[![Python](https://img.shields.io/badge/Python-38bdf8?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-06b6d4?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-2563eb?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-hero-v2.svg" alt="BRONTIS — Graphic Designer and Creative Developer" width="100%" />
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🎨 Graphic Artist • Creative Developer • Builder
 
-I'm **Brontis** — a developer building at the intersection of **software engineering, AI, and healthcare**.
+I'm **Brontis** — a graphic artist and software builder working across **visual identity, graphic design, UI/UX, motion, AI and product engineering**.
 
-I like taking an idea from a blank repository to a real system: architecture, APIs, databases, authentication, mobile interfaces, testing, and everything in between.
+I enjoy taking an idea from a rough concept to a polished visual system — then building the technology behind it when the idea needs to become a real product.
 
-- 🔭 Building **OSBRONT** and its technology platform, **Project Aegis**
-- 🧠 Growing deeper into **AI engineering and intelligent systems**
-- 🐍 Building backend systems with **Python + FastAPI**
-- 📱 Building mobile experiences with **Flutter**
-- 🏗️ Learning through real-world system design and product development
-- 🌍 Focused on technology that can solve meaningful problems across Africa
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-creative-system.svg" alt="The Brontis creative system" width="100%" />
+
+</div>
+
+### What I Create
+
+- **Brand Identity** — logos, visual systems, brand direction and guidelines
+- **Graphic Design** — social campaigns, promotional graphics, presentations and digital artwork
+- **UI/UX Design** — interfaces, prototypes, design systems and mobile experiences
+- **Motion & Visual Content** — animation, video concepts and motion graphics
+- **Creative Development** — turning designs into functional web and mobile products
+- **AI-Enhanced Creative Workflows** — exploring how intelligent tools can accelerate design and product development
 
 ---
 
-## 🛡️ Currently Building — OSBRONT
+## 🧰 Creative × Engineering Toolkit
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-tools.svg" alt="Brontis creative and engineering toolkit" width="100%" />
+
+</div>
+
+| Domain | Technologies |
+|:---|:---|
+| **Design** | Figma · Illustrator · Photoshop · Premiere Pro · After Effects |
+| **Frontend / Mobile** | Flutter · UI/UX · Responsive Interfaces |
+| **Backend** | Python · FastAPI · SQLAlchemy · REST APIs |
+| **AI** | LLM APIs · RAG · Vector Databases · AI Engineering |
+| **DevOps** | Git · GitHub · Docker · Linux |
+
+---
+
+## ⚡ Currently Building — OSBRONT
 
 <div align="center">
 
@@ -40,74 +59,34 @@ I like taking an idea from a blank repository to a real system: architecture, AP
 
 **Project Aegis** is the engineering platform behind OSBRONT — a health-tech system designed around accessible, safe healthcare and medicine delivery.
 
-
 The platform is being developed around **authentication, role-based access, pharmacy/pharmacist workflows, medicine orders, order state management, payments, verification, delivery, and AI-assisted workflows.**
 
 ---
 
-## 🧰 Tech I Work With
+## 🧠 How I Work
 
-<div align="center">
+> **Build. Learn. Create. Impact.**
 
-| Domain | Technologies |
-|:---|:---|
-| **Languages** | 🐍 Python · 🎯 Dart · 🔵 Go · 🗄️ SQL |
-| **Backend** | ⚡ FastAPI · SQLAlchemy · Pydantic · REST APIs |
-| **Mobile** | 📱 Flutter |
-| **Database** | PostgreSQL · SQLite · Alembic |
-| **DevOps / Tools** | Docker · Git · GitHub · Linux |
-| **AI** | LLM APIs · RAG · Vector Databases · AI Engineering |
-
-</div>
+I don't want to only make things that work. I want them to **look intentional, feel coherent, solve a real problem, and hold up technically.**
 
 ---
 
-## 🚀 What I'm Exploring
+## 🌌 Areas I'm Exploring
 
-```text
-Backend Engineering       ████████████████████  Building
-AI Engineering             █████████████████░░░  Exploring
-System Architecture        ████████████████░░░░  Developing
-Flutter                    ███████████████░░░░░  Building
-Go                         ███████████░░░░░░░░░  Learning
-```
-
----
-
-## 🧠 Engineering Philosophy
-
-> **Build. Understand. Improve. Repeat.**
-
-I don't want to only write code that works. I want to understand **why it works, how it fails, how it scales, and how it can be made better.**
-
----
-
-## 🌌 Beyond the Code
-
-I'm interested in:
-
-`AI` · `Health-Tech` · `Startups` · `Backend Systems` · `System Design` · `Product Engineering` · `Africa's Digital Future`
+`Graphic Design` · `Brand Identity` · `UI/UX` · `Motion Design` · `AI` · `Health-Tech` · `Startups` · `Product Engineering`
 
 ---
 
 <div align="center">
 
-### ✦ BUILDING THE FUTURE, ONE SYSTEM AT A TIME ✦
+<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-logo.svg" alt="BRONTIS logo" width="110" />
 
-**BRONTIS**
+### BUILD • LEARN • CREATE • IMPACT
 
-<sub>Software Engineer • AI Builder • Health-Tech Founder</sub>
+<sub>Graphic Artist • Creative Developer • AI Builder • Health-Tech Founder</sub>
 
 <br /><br />
 
 <sub>© 2026 Brontis</sub>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Bront888/Bront888/main/assets/brontis-footer-orbit.svg" alt="Animated BRONTIS technology orbit" width="100%" />
 
 </div>
